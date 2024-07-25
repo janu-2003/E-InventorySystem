@@ -1,1 +1,1 @@
-Inventory System
+E-Inventory System
